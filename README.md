@@ -37,19 +37,47 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+![image](https://github.com/user-attachments/assets/a66b841b-e4b0-4a82-af59-12c8a00c5181)
+![image](https://github.com/user-attachments/assets/15000f0a-af24-43da-a548-fe6d2ac709ae)
 
 **Procedure**
+Full Adder
 
-Write the detailed procedure here
+1.Open Quartus II and create a new project.
+
+2.Use schematic design entry to draw the full adder circuit.
+
+3.The circuit consists of XOR, AND, and OR gates.
+
+4.Compile the design, verify its functionality through simulation.
+
+5.Implement the design on the target device and program it.
+
+Full Subtractor
+
+1.Follow the same steps as for the full adder.
+
+2.Draw the full subtractor circuit using schematic design.
+
+3.The circuit includes XOR, AND, OR gates to perform subtraction.
+
+4.Compile, simulate, implement, and program the design similarly to the full adder.
 
 **Program:**
+![image](https://github.com/user-attachments/assets/6b05839e-9183-4c3d-b9d0-de3fbfc5cdd6)
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![image](https://github.com/user-attachments/assets/669df32e-d703-43ce-bc92-ed07cf2f4fcf)
+
+Developed by: RANJANI K
+
+RegisterNumber:212224230220
+
 
 **RTL Schematic**
+![image](https://github.com/user-attachments/assets/8801af2e-fe7e-41a3-af43-48019e55afff)
 
 **Output Timing Waveform**
+![image](https://github.com/user-attachments/assets/8b2ae3ac-89c2-434d-a2b3-616213dcd73e)
 
 **Result:**
 
